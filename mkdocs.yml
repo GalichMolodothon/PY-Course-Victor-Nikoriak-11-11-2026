@@ -101,6 +101,7 @@ nav:
       - "4. Умови та цикли": modules/m1/lesson_04.md
       - "5. Списки, кортежі, множини": modules/m1/lesson_05.md
       - "6. Словники, for, comprehensions": modules/m1/lesson_06.md
+      - "Бонус. Два цикли Python: for і while": modules/m1/bonus_loops.md
       - "8. Функції": modules/m1/lesson_08.md
       - "9. П1. Big O + базові задачі": modules/m1/lesson_09.md
       - "10. Декоратори": modules/m1/lesson_10.md
